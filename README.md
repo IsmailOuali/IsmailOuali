@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IsmailOuali
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Laravel / React.js / Node.js / Express.js
+- ✨ Developer(Laravel / React.js / Node.js / Express.js)
+- 🌱 I’m cntly learning (JAVA ,JEE)
 - 📫 How to reach me https://www.linkedin.com/in/ismail-ouali-2a1b9a2a5
 
 <!---
